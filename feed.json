@@ -10,6 +10,26 @@
     },
     "items": [
         {
+            "id": "https://scien-tech.github.io/another-post-with-tags/index.html",
+            "url": "https://scien-tech.github.io/another-post-with-tags/index.html",
+            "title": "Another post with tags",
+            "summary": "only to test",
+            "content_html": "<p>only to test</p>",
+            "image": "https://scien-tech.github.io/media/posts/4/water_orig.jpg",
+            "author": {
+                "name": "Paulo Araújo"
+            },
+            "tags": [
+                   "Tools",
+                   "Tips",
+                   "Science",
+                   "News",
+                   "Misc"
+            ],
+            "date_published": "2021-01-30T20:08:37+01:00",
+            "date_modified": "2021-01-30T20:08:37+01:00"
+        },
+        {
             "id": "https://scien-tech.github.io/post-test-3/index.html",
             "url": "https://scien-tech.github.io/post-test-3/index.html",
             "title": "Post test 3",
@@ -47,9 +67,17 @@
                 "name": "Paulo Araújo"
             },
             "tags": [
+                   "Tools",
+                   "Tips",
+                   "Technology",
+                   "Science",
+                   "News",
+                   "Misc",
+                   "Engineering",
+                   "Education"
             ],
             "date_published": "2021-01-30T01:33:57+01:00",
-            "date_modified": "2021-01-30T01:33:57+01:00"
+            "date_modified": "2021-01-30T20:07:04+01:00"
         }
     ]
 }

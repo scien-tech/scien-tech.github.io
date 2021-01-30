@@ -3,12 +3,39 @@
     <title>ScienTech</title>
     <link href="https://scien-tech.github.io/feed.xml" rel="self" />
     <link href="https://scien-tech.github.io" />
-    <updated>2021-01-30T01:39:48+01:00</updated>
+    <updated>2021-01-30T20:08:37+01:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
     <id>https://scien-tech.github.io</id>
 
+    <entry>
+        <title>Another post with tags</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://scien-tech.github.io/another-post-with-tags/index.html"/>
+        <id>https://scien-tech.github.io/another-post-with-tags/index.html</id>
+            <category term="Tools"/>
+            <category term="Tips"/>
+            <category term="Science"/>
+            <category term="News"/>
+            <category term="Misc"/>
+
+        <updated>2021-01-30T20:08:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://scien-tech.github.io/media/posts/4/water_orig.jpg" alt="Alternative text" />
+                    only to test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://scien-tech.github.io/media/posts/4/water_orig.jpg" alt="Alternative text" />
+                <p>only to test</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post test 3</title>
         <author>
@@ -57,8 +84,16 @@
         </author>
         <link href="https://scien-tech.github.io/welcome-to-scientech/index.html"/>
         <id>https://scien-tech.github.io/welcome-to-scientech/index.html</id>
+            <category term="Tools"/>
+            <category term="Tips"/>
+            <category term="Technology"/>
+            <category term="Science"/>
+            <category term="News"/>
+            <category term="Misc"/>
+            <category term="Engineering"/>
+            <category term="Education"/>
 
-        <updated>2021-01-30T01:33:57+01:00</updated>
+        <updated>2021-01-30T20:07:04+01:00</updated>
             <summary>
                 <![CDATA[
                     Headings test 1Headings test 2Headings test 3Headings test 4Headings test 5 Pre, para part mono espaçadaPra quando precisar colar um código Pra citar uma frase importante de alguém Pra formator pro Blockquote Emojis ⚽⚙ The first post is a test of how the blog will&hellip;
