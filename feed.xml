@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ScienTech</title>
-    <link href="https://scien-tech.github.com/scien-tech.github.io/feed.xml" rel="self" />
-    <link href="https://scien-tech.github.com/scien-tech.github.io" />
+    <link href="https://scien-tech.github.io/feed.xml" rel="self" />
+    <link href="https://scien-tech.github.io" />
     <updated>2021-01-30T01:39:48+01:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
-    <id>https://scien-tech.github.com/scien-tech.github.io</id>
+    <id>https://scien-tech.github.io</id>
 
     <entry>
         <title>Post test 3</title>
         <author>
             <name>Paulo Araújo</name>
         </author>
-        <link href="https://scien-tech.github.com/scien-tech.github.io/post-test-3/index.html"/>
-        <id>https://scien-tech.github.com/scien-tech.github.io/post-test-3/index.html</id>
+        <link href="https://scien-tech.github.io/post-test-3/index.html"/>
+        <id>https://scien-tech.github.io/post-test-3/index.html</id>
 
         <updated>2021-01-30T01:39:48+01:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Paulo Araújo</name>
         </author>
-        <link href="https://scien-tech.github.com/scien-tech.github.io/post-test-2/index.html"/>
-        <id>https://scien-tech.github.com/scien-tech.github.io/post-test-2/index.html</id>
+        <link href="https://scien-tech.github.io/post-test-2/index.html"/>
+        <id>https://scien-tech.github.io/post-test-2/index.html</id>
 
         <updated>2021-01-30T01:34:30+01:00</updated>
             <summary>
@@ -55,8 +55,8 @@
         <author>
             <name>Paulo Araújo</name>
         </author>
-        <link href="https://scien-tech.github.com/scien-tech.github.io/welcome-to-scientech/index.html"/>
-        <id>https://scien-tech.github.com/scien-tech.github.io/welcome-to-scientech/index.html</id>
+        <link href="https://scien-tech.github.io/welcome-to-scientech/index.html"/>
+        <id>https://scien-tech.github.io/welcome-to-scientech/index.html</id>
 
         <updated>2021-01-30T01:33:57+01:00</updated>
             <summary>
@@ -94,7 +94,7 @@
 <li>131312</li>
 </ol>
 <p>Add a image </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://scien-tech.github.com/scien-tech.github.io/media/posts/1/2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-xs.png 300w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-sm.png 480w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-md.png 768w"  alt="test on center aligned img" width="250" height="250"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://scien-tech.github.io/media/posts/1/2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://scien-tech.github.io/media/posts/1/responsive/2-xs.png 300w ,https://scien-tech.github.io/media/posts/1/responsive/2-sm.png 480w ,https://scien-tech.github.io/media/posts/1/responsive/2-md.png 768w ,https://scien-tech.github.io/media/posts/1/responsive/2-lg.png 1024w ,https://scien-tech.github.io/media/posts/1/responsive/2-xl.png 1360w ,https://scien-tech.github.io/media/posts/1/responsive/2-2xl.png 1600w"  alt="test on center aligned img" width="250" height="250"></figure>
 <p class="msg msg--highlight ">Highlighting a part of the post</p>
 <p class="msg msg--success">Outro tipo de highlight</p>
 <p> </p>

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://scien-tech.github.com/scien-tech.github.io/sitemap.xml
+Sitemap: https://scien-tech.github.io/sitemap.xml
