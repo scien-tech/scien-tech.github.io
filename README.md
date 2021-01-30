@@ -1,1 +1,0 @@
-# scien-tech.github.io

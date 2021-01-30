@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ScienTech</title>
+    <link href="https://scien-tech.github.com/scien-tech.github.io/feed.xml" rel="self" />
+    <link href="https://scien-tech.github.com/scien-tech.github.io" />
+    <updated>2021-01-30T01:39:48+01:00</updated>
+    <author>
+        <name>Paulo Araújo</name>
+    </author>
+    <id>https://scien-tech.github.com/scien-tech.github.io</id>
+
+    <entry>
+        <title>Post test 3</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://scien-tech.github.com/scien-tech.github.io/post-test-3/index.html"/>
+        <id>https://scien-tech.github.com/scien-tech.github.io/post-test-3/index.html</id>
+
+        <updated>2021-01-30T01:39:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Just to test ther copy
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Just to test ther copy</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post test 2 </title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://scien-tech.github.com/scien-tech.github.io/post-test-2/index.html"/>
+        <id>https://scien-tech.github.com/scien-tech.github.io/post-test-2/index.html</id>
+
+        <updated>2021-01-30T01:34:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Just to check how 2 posts are in the blog 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Just to check how 2 posts are in the blog</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Welcome to ScienTech</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://scien-tech.github.com/scien-tech.github.io/welcome-to-scientech/index.html"/>
+        <id>https://scien-tech.github.com/scien-tech.github.io/welcome-to-scientech/index.html</id>
+
+        <updated>2021-01-30T01:33:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Headings test 1Headings test 2Headings test 3Headings test 4Headings test 5 Pre, para part mono espaçadaPra quando precisar colar um código Pra citar uma frase importante de alguém Pra formator pro Blockquote Emojis ⚽⚙ The first post is a test of how the blog will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Headings test 1</h2>
+<h3>Headings test 2</h3>
+<h4>Headings test 3</h4>
+<h5>Headings test 4</h5>
+<h6>Headings test 5</h6>
+<p> </p>
+<address>Address (não sei o que é isso um tipo de itálico?)</address>
+<pre>Pre, para part mono espaçada</pre>
+<p><code>Pra quando precisar colar um código</code></p>
+<blockquote>
+<p>Pra citar uma frase importante de alguém</p>
+<p>Pra formator pro Blockquote </p>
+</blockquote>
+<p>Emojis ⚽⚙</p>
+<p>The first post is a test of how the blog will look like with a post</p>
+<p>testing som bullet points</p>
+<ul>
+<li>asdasd</li>
+<li>asdasd</li>
+<li>asdasdasd</li>
+</ul>
+<p>some numeric order</p>
+<ol>
+<li>12312</li>
+<li>123123</li>
+<li>131312</li>
+</ol>
+<p>Add a image </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://scien-tech.github.com/scien-tech.github.io/media/posts/1/2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-xs.png 300w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-sm.png 480w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-md.png 768w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-lg.png 1024w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-xl.png 1360w ,https://scien-tech.github.com/scien-tech.github.io/media/posts/1/responsive/2-2xl.png 1600w"  alt="test on center aligned img" width="250" height="250"></figure>
+<p class="msg msg--highlight ">Highlighting a part of the post</p>
+<p class="msg msg--success">Outro tipo de highlight</p>
+<p> </p>
+<p>Tabela</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;">qweqwe</td>
+<td style="width: 25%;">qweqw</td>
+<td style="width: 25%;" rowspan="2">131<br>asda</td>
+<td style="width: 25%;">1231</td>
+</tr>
+<tr>
+<td style="width: 25%;">asd</td>
+<td style="width: 25%;">asd</td>
+<td style="width: 25%;">asd</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
